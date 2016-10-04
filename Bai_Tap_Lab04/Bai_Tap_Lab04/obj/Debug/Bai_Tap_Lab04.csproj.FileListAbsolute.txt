@@ -1,0 +1,6 @@
+C:\Users\havanduy\Desktop\Bai_Tap_Lab04\Bai_Tap_Lab04\bin\Bai_Tap_Lab04.dll.config
+C:\Users\havanduy\Desktop\Bai_Tap_Lab04\Bai_Tap_Lab04\bin\Bai_Tap_Lab04.dll
+C:\Users\havanduy\Desktop\Bai_Tap_Lab04\Bai_Tap_Lab04\bin\Bai_Tap_Lab04.pdb
+C:\Users\havanduy\Desktop\Bai_Tap_Lab04\Bai_Tap_Lab04\obj\Debug\Bai_Tap_Lab04.csprojResolveAssemblyReference.cache
+C:\Users\havanduy\Desktop\Bai_Tap_Lab04\Bai_Tap_Lab04\obj\Debug\Bai_Tap_Lab04.dll
+C:\Users\havanduy\Desktop\Bai_Tap_Lab04\Bai_Tap_Lab04\obj\Debug\Bai_Tap_Lab04.pdb
