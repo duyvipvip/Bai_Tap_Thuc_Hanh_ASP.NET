@@ -1,0 +1,5 @@
+C:\Users\havanduy\Desktop\Bai_Tap_Lab02\Bai_Tap_Lab02\bin\Bai_Tap_Lab02.dll.config
+C:\Users\havanduy\Desktop\Bai_Tap_Lab02\Bai_Tap_Lab02\bin\Bai_Tap_Lab02.dll
+C:\Users\havanduy\Desktop\Bai_Tap_Lab02\Bai_Tap_Lab02\bin\Bai_Tap_Lab02.pdb
+C:\Users\havanduy\Desktop\Bai_Tap_Lab02\Bai_Tap_Lab02\obj\Debug\Bai_Tap_Lab02.dll
+C:\Users\havanduy\Desktop\Bai_Tap_Lab02\Bai_Tap_Lab02\obj\Debug\Bai_Tap_Lab02.pdb
