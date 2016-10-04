@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+  <Ad>
+    <ImageUrl>image\9_2.jpg</ImageUrl>
+    <NavigateUrl>http://www.Baihatviet.net</NavigateUrl>
+    <AlternateText>Web Nhạc bài hát việt</AlternateText>
+    <Keyword>Music</Keyword>
+    <Impressions>10</Impressions>
+  </Ad>
+  <Ad>
+    <ImageUrl>image\a.jpg</ImageUrl>
+    <NavigateUrl>http://www.Baihatviet.net</NavigateUrl>
+    <AlternateText>Web Nhạc bài hát việt</AlternateText>
+    <Keyword>Music</Keyword>
+    <Impressions>10</Impressions>
+  </Ad>
+  <Ad>
+    <ImageUrl>image\asdd.jpg</ImageUrl>
+    <NavigateUrl>http://www.Baihatviet.net</NavigateUrl>
+    <AlternateText>Web Nhạc bài hát việt</AlternateText>
+    <Keyword>Music</Keyword>
+    <Impressions>10</Impressions>
+  </Ad>
+  <Ad>
+    <ImageUrl>image\images.jpg</ImageUrl>
+    <NavigateUrl>http://www.Baihatviet.net</NavigateUrl>
+    <AlternateText>Web Nhạc bài hát việt</AlternateText>
+    <Keyword>Music</Keyword>
+    <Impressions>10</Impressions>
+  </Ad>
+</Advertisements>
